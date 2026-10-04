@@ -2,6 +2,12 @@
 
 #include <SFML/System/Vector2.hpp>
 
+/*
+
+Will contain the definitions of structs and enums that define the current state of the game.
+
+*/
+
 struct Player {
 	sf::Vector2f size;
 	sf::Vector2f position;
